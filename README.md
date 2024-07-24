@@ -22,7 +22,7 @@
 I am a Tech student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m  currently studying at Maulana Azad National Institute of Technology.
 
-- :seedling: Exploring Tech Intern.
+- :seedling: Exploring Tech Internship.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, build projects in three.js and read tech articles.
 
