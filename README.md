@@ -60,28 +60,13 @@ I am a Tech student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Mongodb" alt="Express" width="40" height="40"/>&nbsp; 
 </div>
 
----
-
-### :fire: My Stats :
-
-https://github-readme-streak-stats.herokuapp.com/?user=tosifAN
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tosifAN&theme=dark&background=000000)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosifAN)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosifAN&layout=compact&theme=vision-friendly-dark)]
-
-
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=tosifAn&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
-
-
 ## 🔥 My Stats :
+
 <div align="center">
+  <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=tosifAN&theme=dark&background=000000" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tosifAN&show_icons=true&count_private=true&hide=contribs&locale=en&theme=dracula&border_radius=5" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosifAN&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=tosifAN" height="300" />
-  <img src="https://stats.dooboo.io/api/github-trophies?login=tosifAN" height="150"/>
   <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
 </div>
 
