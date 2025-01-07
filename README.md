@@ -1,4 +1,17 @@
+<!-- markdownlint-disable no-inline-html first-line-h1 no-alt-text -->
+
+<picture>
+  <source srcset="" media="(max-width: 900px)" width="0" height="0">
+  <img align="right" width="300" src="assets/glass.png">
+</picture>
+
+
 ### Hi there. I'm Tosif 👋
+
+I’m a programmer and designer who loves development, solving bugs and errors, and diving into the world of data and AI. I create sleek websites and experiment with AI and its tools to push boundaries. From time to time, I share my experiences through posts on Medium.  
+
+I’m an active contributor to the open-source community—developing my own projects, helping others, and collaborating on meaningful initiatives.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -60,12 +73,32 @@ https://github-readme-streak-stats.herokuapp.com/?user=tosifAN
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosifAN&layout=compact&theme=vision-friendly-dark)]
 
 
-
-
-
-
-
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=tosifAn&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 
+## 🔥 My Stats :
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tosifAN&show_icons=true&count_private=true&hide=contribs&locale=en&theme=dracula&border_radius=5" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosifAN&layout=compact&hide=php&langs_count=6&locale=en&theme=dracula&border_radius=5" /> 
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=tosifAN" height="300" />
+  <img src="https://stats.dooboo.io/api/github-trophies?login=tosifAN" height="150"/>
+  <img src="https://raw.githubusercontent.com/iamwilldev/iamwilldev/output/snake.svg" alt="Snake animation" />
+</div>
 
+### Read my latest posts on [**Medium**](https://medium.com/@tosif1355)
+
+| [**🤖 Enhancing AI Security with Jailbreak Detection**](https://medium.com/@tosif1355/enhancing-ai-security-with-jailbreak-detection-8d5249e35b63) <br> <sub>we’ve implemented an advanced Jailbreak Detection System that leverages pattern matching and semantic analysis to identify and mitigate such attempts</sub> | [<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IrKcluu-TtVmGSEjue13vQ.jpeg" height="90">](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IrKcluu-TtVmGSEjue13vQ.jpeg) |
+| :-- | :-: |
+
+
+## <picture><source srcset="assets/globe-white.svg" media="(prefers-color-scheme: dark)"><source srcset="assets/globe-black.svg" media="(prefers-color-scheme: light)"><img src="assets/globe-white.svg" width="22" align="bottom"></picture>&nbsp;&nbsp;Socials
+
+<picture>
+  <source srcset="assets/toast-white.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="assets/toast-black.svg" media="(prefers-color-scheme: light)">
+  <img src="assets/toast-white.svg" width="250" align="right" alt="Have a nice day!">
+</picture>
+
+<div align="left">
+  <a href="https://discordapp.com/users/tosif3"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord"/></a>&nbsp;
+</div>
